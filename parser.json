@@ -1,7 +1,7 @@
 {
   "url": "https://github.com/gbprod/tree-sitter-gitcommit",
   "semver": false,
-  "lang": "gitcommit",
+  "parser_version": "33fe8548abcc6e374feaac5724b5a2364bf23090",
   "location": null,
-  "parser_version": "33fe8548abcc6e374feaac5724b5a2364bf23090"
+  "lang": "gitcommit"
 }
